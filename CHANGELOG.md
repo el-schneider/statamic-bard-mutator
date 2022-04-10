@@ -1,9 +1,8 @@
 # Changelog
 
-## 1.1.0 ()
+## 1.0.4 (2022-04-10)
 
-- [new] context
-- [new] service container
+- [fix] Fix utility function import
 
 ## 1.0.3 (2021-12-03)
 
@@ -25,10 +24,7 @@
 ## 0.2.0 (2021-10-22)
 
 - [break] **Package Renamed:**  
-This package has been renamed to `jacksleight/statamic-bard-mutator`. Sorry for any inconvienence this causes, but it's necessary for some future plans and to keep everything namespaced properly. Update instructions:
-    1. Update `composer.json` to `"jacksleight/statamic-bard-mutator": "0.2.0",`
-    2. Update any class references to the new `JackSleight\StatamicBardMutator` namespace
-    3. Run `composer update`
+  This package has been renamed to `jacksleight/statamic-bard-mutator`. Sorry for any inconvienence this causes, but it's necessary for some future plans and to keep everything namespaced properly. Update instructions: 1. Update `composer.json` to `"jacksleight/statamic-bard-mutator": "0.2.0",` 2. Update any class references to the new `JackSleight\StatamicBardMutator` namespace 3. Run `composer update`
 
 ## 0.1.4 (2021-09-29)
 
